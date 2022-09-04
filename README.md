@@ -1,6 +1,6 @@
 项目传送门：https://github.com/WillKen/SceneDemo
 
-视频演示：[MyScene｜游戏Demo演示-哔哩哔哩]()
+视频演示：[MyScene｜游戏Demo演示-哔哩哔哩](https://b23.tv/C608VlS)
 
 # 开发环境
 
